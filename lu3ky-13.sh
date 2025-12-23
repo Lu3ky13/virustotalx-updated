@@ -2,9 +2,9 @@
 
 # ================= CONFIG =================
 API_KEYS=(
-  "a367cf14ad65e60227c38fefa8425be24da76722ac06942a1cbcb962d65005eb"
-  "f1de76c69e3eebc93e88670bf08bed0ac0b5d1fe4e64d25ed6d5b8e792150dba"
-  "5d15607aa1c9e33b7b589e64cc4a34c83aa066da67fa5de3146435297425f1f7"
+  "62d65005eb"
+  "hdfg434534"
+  "hrhrh455665"
 )
 
 SLEEP_SECONDS=5       # safe & faster
